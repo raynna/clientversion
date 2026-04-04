@@ -4,7 +4,7 @@
     "jarSha256":  "7269a0dd9cd8023836f8ab527aff1ab1d57182eddde24982727d0d9c22671576",
     "heroTitle":  "AVALON UPDATE HUB",
     "heroSubtitle":  "News and artwork now load directly from GitHub manifest.",
-    "heroImageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/hero.png",
+    "heroImageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/runepure.png",
     "logoImageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/logo.png",
     "characters":  [
                        "A_ndreas",
@@ -15,17 +15,17 @@
                       {
                           "title":  "Launcher character selection is live",
                           "date":  "4 April 2026",
-                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/news-1.png"
+                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/grounditemsupdate.png"
                       },
                       {
                           "title":  "Manifest now controls launcher images",
                           "date":  "4 April 2026",
-                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/news-2.png"
+                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/grounditemsupdate.png"
                       },
                       {
                           "title":  "Automatic client updates remain enabled",
                           "date":  "4 April 2026",
-                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/news-3.png"
+                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/grounditemsupdate.png"
                       }
                   ],
     "launcherApiBaseUrl":  "http://127.0.0.1:8765",
