@@ -7,9 +7,7 @@
     "heroImageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/runepure.png",
     "logoImageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/logo.png",
     "characters":  [
-                       "A_ndreas",
-                       "AvalonMain",
-                       "AvalonIron"
+
                    ],
     "newsItems":  [
                       {
