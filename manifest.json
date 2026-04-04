@@ -27,5 +27,7 @@
                           "date":  "4 April 2026",
                           "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/news-3.png"
                       }
-                  ]
+                  ],
+    "launcherApiBaseUrl":  "http://127.0.0.1:8765",
+    "launcherApiKey":  ""
 }
