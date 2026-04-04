@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.0",
-    "jarUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/AvalonClient.jar",
-    "jarSha256":  "9dec2c491cd416a935aea361de659202165dc3ebe74e752ffa1557e30be43988"
+    "version":  "1.0.1",
+    "jarUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/AvalonClient-1.0.1.jar",
+    "jarSha256":  "7269a0dd9cd8023836f8ab527aff1ab1d57182eddde24982727d0d9c22671576"
 }
