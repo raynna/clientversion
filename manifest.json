@@ -26,6 +26,6 @@
                           "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/grounditemsupdate.png"
                       }
                   ],
-    "launcherApiBaseUrl":  "http://127.0.0.1:8765",
+    "launcherApiBaseUrl":  "http://api.avalonrsps.se:8765",
     "launcherApiKey":  ""
 }
