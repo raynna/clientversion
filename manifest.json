@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.46",
-    "jarUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/AvalonClient-1.0.46.jar",
-    "jarSha256":  "85f4b3646e4c45919d4fc76df9cc3ab90d2149ffd661359cff4071be280ac151",
+    "version":  "1.0.47",
+    "jarUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/AvalonClient-1.0.47.jar",
+    "jarSha256":  "187806fdf114694be48dad6920b8a43c34184d3c93bbc532730b596696bc90fa",
     "heroTitle":  "AVALON UPDATE HUB",
     "heroSubtitle":  "News and artwork now load directly from GitHub manifest.",
     "heroImageUrl":  "",
