@@ -11,19 +11,19 @@
                    ],
     "newsItems":  [
                       {
-                          "title":  "Launcher character selection is live",
-                          "date":  "4 April 2026",
-                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/grounditemsupdate.png"
+                          "title":  "Animation stalling plugin!",
+                          "date":  "20 May 2026",
+                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/animationstalling.png"
                       },
                       {
-                          "title":  "Manifest now controls launcher images",
-                          "date":  "4 April 2026",
-                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/grounditemsupdate.png"
+                          "title":  "Pvp tracker plugin",
+                          "date":  "20 May 2026",
+                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/pvptracker.png"
                       },
                       {
-                          "title":  "Automatic client updates remain enabled",
-                          "date":  "4 April 2026",
-                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/grounditemsupdate.png"
+                          "title":  "Switching timer plugin",
+                          "date":  "15 May 2026",
+                          "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/switchtimer.png"
                       }
                   ],
     "launcherApiBaseUrl":  "http://api.avalonrsps.se:8765",
