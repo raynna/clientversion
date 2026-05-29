@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.4.9",
-    "jarUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/AvalonClient-1.4.9.jar",
-    "jarSha256":  "c5520b8f9057f7985aa9b47be1d194ac30beba98ee3a3879e23b59980c80f763",
+    "version":  "1.5.0",
+    "jarUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/AvalonClient-1.5.0.jar",
+    "jarSha256":  "1b16d97e126b262b8dc32afe2bab4f478240c0d030e0da6355c51b499f9e45b6",
     "heroTitle":  "AvalonPK - Pre-eoc",
     "heroSubtitle":  "Get ready to get pked.",
     "heroImageUrl":  "",
