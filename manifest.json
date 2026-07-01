@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.5.7",
-    "jarUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/AvalonClient-2.5.7.jar",
-    "jarSha256":  "d465d841bf61be3c82d2044b913b363fd401a0ac4ac7c77163d7e634cdd45765",
+    "version":  "2.5.8",
+    "jarUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/AvalonClient-2.5.8.jar",
+    "jarSha256":  "721dfacc8dcab99806a1eb04f2cf233b5033ee5633f4620cab46c854ce0aab84",
     "heroTitle":  "AvalonPK - Pre-eoc",
     "heroSubtitle":  "Get ready to get pked.",
     "heroImageUrl":  "",
@@ -21,7 +21,7 @@
                           "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/deathdot.png"
                       },
                       {
-                          "title":  "Voting & Voting shop",
+                          "title":  "Voting \u0026 Voting shop",
                           "date":  "1 July 2026",
                           "imageUrl":  "https://raw.githubusercontent.com/raynna/clientversion/main/assets/voting.png"
                       }
